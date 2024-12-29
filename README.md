@@ -1,4 +1,4 @@
-### SYNCHRONOUS-UP-COUNTER
+### EX.NO:11 SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
@@ -70,13 +70,3 @@ Developed by: Vignesh V RegisterNumber:24900521
 
 **Results**
 Thus the program executed successfully.
-
-
-
-
-
-
-
-
-
-**RESULTS**
